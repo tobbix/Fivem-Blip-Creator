@@ -1,5 +1,5 @@
-fx_version 'adamant' -- verze manifestu
-game 'gta5' -- pro jakou hru
+fx_version 'adamant' 
+game 'gta5'
 
 author 'TOBIX'
 description 'blip creator'
